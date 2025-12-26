@@ -1,0 +1,26 @@
+{
+  "name": "sillybot",
+  "version": "1.0.0",
+  "description": "Discord bot you defenitely don't need!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeisterGrogu/Silly-Bot.git"
+  },
+  "author": "Leopold Peters",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/MeisterGrogu/Silly-Bot/issues"
+  },
+  "homepage": "https://github.com/MeisterGrogu/Silly-Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.25.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "eslint": "^9.39.2"
+  }
+}
